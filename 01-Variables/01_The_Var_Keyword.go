@@ -21,4 +21,9 @@ func main() {
 	fmt.Println(test.GlobalVar)
 
 	//var can be used global and local declaration.
+
+	// declare and assign = initilization
+
+	// by default assign 0 for int , false for boolean,  0.0 for float , "" for string
+	// nil for pointers , functions , interfaces , slices , channels , and maps
 }
