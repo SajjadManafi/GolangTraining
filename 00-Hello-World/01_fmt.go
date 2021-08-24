@@ -36,4 +36,6 @@ func main() {
 	//func Fprintf(w io.Writer, format string, a ...interface{}) (n int, err error)
 	//func Fprintln(w io.Writer, a ...interface{}) (n int, err error)
 
+	//for more : https://pkg.go.dev/fmt
+
 }
