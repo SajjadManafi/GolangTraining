@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 
@@ -17,4 +19,5 @@ func main() {
 	fmt.Println(z)
 
 	// you cant have unused variables in your go code. the compiler doesen't allow it.
+	//short declaration just used in local for example in functions.
 }
