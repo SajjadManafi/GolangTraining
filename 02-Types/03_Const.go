@@ -2,7 +2,10 @@ package main
 
 import "fmt"
 
+// untyped const
 const hey = "hey!"
+
+// typed const
 const hello string = "Hello..."
 
 const x = 13
