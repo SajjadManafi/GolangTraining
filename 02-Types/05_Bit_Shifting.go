@@ -24,4 +24,6 @@ func main() {
 	fmt.Printf("%d\t\t\t%b\n", mb, mb)
 	fmt.Printf("%d\t\t%b\n", gb, gb)
 
+	// for more : https://medium.com/learning-the-go-programming-language/bit-hacking-with-go-e0acee258827
+
 }
