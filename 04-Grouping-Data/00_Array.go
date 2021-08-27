@@ -17,8 +17,12 @@ func main() {
 	// len returns the length of an array.
 	fmt.Println(len(x))
 
+	// using "RANGE"
 	y := [4]float64{91.2, 23.3, 12.5, 4.1}
-	fmt.Println(y)
+
+	for i, v := range y {
+		fmt.Printf("index: %d , value: %.2f\n", i, v)
+	}
 
 	//two demical array:
 	var t [2][2]int
