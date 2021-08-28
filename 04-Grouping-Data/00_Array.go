@@ -19,6 +19,7 @@ func main() {
 
 	// using "RANGE"
 	y := [4]float64{91.2, 23.3, 12.5, 4.1}
+	// we can use ... insted of 4 -> y := [...]float64{91.2, 23.3, 12.5, 4.1}
 
 	for i, v := range y {
 		fmt.Printf("index: %d , value: %.2f\n", i, v)
