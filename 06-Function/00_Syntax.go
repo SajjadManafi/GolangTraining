@@ -37,3 +37,13 @@ func BiggerThan(a int, b int) (int, bool) {
 		return b, false
 	}
 }
+
+// Go's return values may be named. If so,
+// they are treated as variables defined at the top of the function.
+//	These names should be used to document the meaning of the return values.
+func subtract(x, y int) (res int) {
+	res = x - y
+	return
+}
+
+// more -> https://tour.golang.org/basics/7
