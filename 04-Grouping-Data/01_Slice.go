@@ -25,4 +25,8 @@ func main() {
 
 	x = append(x[:2], x[4:]...)
 	fmt.Println(x) // [9 5 873 4 46 12 2021 2022 2023 2024 2025] -> 35 and 25 deleted
+
+	// two demical slice
+	z := [][]int{x, y}
+	fmt.Println(z) // [[9 5 873 4 46 12 2021 2022 2023 2024 2025] [2022 2023 2024 2025]]
 }
