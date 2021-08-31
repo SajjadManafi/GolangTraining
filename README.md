@@ -1,6 +1,6 @@
 # go programming language tutorial
 
-* [Hello Worl](https://github.com/SajjadManafi/GolangTraining/tree/main/00-Hello-World)
+* [Hello World](https://github.com/SajjadManafi/GolangTraining/tree/main/00-Hello-World)
   * [Hello World](https://github.com/SajjadManafi/GolangTraining/blob/main/00-Hello-World/00_Hello_World.go)
   * [fmt package](https://github.com/SajjadManafi/GolangTraining/blob/main/00-Hello-World/01_fmt.go)
 * [Variables](https://github.com/SajjadManafi/GolangTraining/tree/main/01-Variables)
