@@ -67,6 +67,9 @@
   * [More About Errors 1](https://github.com/SajjadManafi/GolangTraining/blob/main/10-Error-Handling/04_More_About_Errors_1.go)
   * [More About Errors 2](https://github.com/SajjadManafi/GolangTraining/blob/main/10-Error-Handling/04_More_About_Errors_2.go)
 * [Test and Bencmark](https://github.com/SajjadManafi/GolangTraining/tree/main/11-Test-and-Bencmark)
+  * [Introdoction](https://github.com/SajjadManafi/GolangTraining/tree/main/11-Test-and-Bencmark/00-Introdoction)
+  * [table test](https://github.com/SajjadManafi/GolangTraining/tree/main/11-Test-and-Bencmark/01-table-test)
+  * [example test](https://github.com/SajjadManafi/GolangTraining/tree/main/11-Test-and-Bencmark/03-example-test)
 
 
 ## References :
