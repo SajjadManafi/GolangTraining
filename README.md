@@ -60,6 +60,12 @@
   * [Fan-Out](https://github.com/SajjadManafi/GolangTraining/blob/main/09-Channels/07_Fan_Out.go)
   * [More](https://github.com/SajjadManafi/GolangTraining/blob/main/09-Channels/08_TODO)
 * [Error Handling](https://github.com/SajjadManafi/GolangTraining/tree/main/10-Error-Handling)
+  * [Understanding](https://github.com/SajjadManafi/GolangTraining/blob/main/10-Error-Handling/00_Understanding)
+  * [Checking Examples](https://github.com/SajjadManafi/GolangTraining/blob/main/10-Error-Handling/01_Checking_Examples.go)
+  * [Printing and Logging](https://github.com/SajjadManafi/GolangTraining/blob/main/10-Error-Handling/02_Printing_and_Logging.go)
+  * [Recover](https://github.com/SajjadManafi/GolangTraining/blob/main/10-Error-Handling/03_Recover.go)
+  * [More About Errors 1](https://github.com/SajjadManafi/GolangTraining/blob/main/10-Error-Handling/04_More_About_Errors_1.go)
+  * [More About Errors 2](https://github.com/SajjadManafi/GolangTraining/blob/main/10-Error-Handling/04_More_About_Errors_2.go)
 * [Test and Bencmark](https://github.com/SajjadManafi/GolangTraining/tree/main/11-Test-and-Bencmark)
 
 
